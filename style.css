@@ -94,49 +94,49 @@ header {
 }
 
 #img-1 {
-    background-image: url(Images/1.jpeg);
+    background-image: url("/responsive-landing-page-01/Images/1.jpeg");
     background-size: cover;
     background-position: center;
 }
 
 #img-2 {
-    background-image: url(Images/2.jpg);
+    background-image: url("/responsive-landing-page-01/Images/2.jpg");
     background-size: cover;
     background-position: center;
 }
 
 #img-3 {
-    background-image: url(Images/3.jpg);
+    background-image: url("/responsive-landing-page-01/Images/3.jpg");
     background-size: cover;
     background-position: center;
 }
 
 #img-4 {
-    background-image: url(Images/4.jpg);
+    background-image: url("/responsive-landing-page-01/Images/4.jpg");
     background-size: cover;
     background-position: center;
 }
 
 #img-5 {
-    background-image: url(Images/5.jpg);
+    background-image: url("/responsive-landing-page-01/Images/5.jpg");
     background-size: cover;
     background-position: center;
 }
 
 #img-6 {
-    background-image: url(Images/6.jpg);
+    background-image: url("/responsive-landing-page-01/Images/6.jpg");
     background-size: cover;
     background-position: center;
 }
 
 #img-7 {
-    background-image: url(Images/7.jpg);
+    background-image: url("/responsive-landing-page-01/Images/7.jpg");
     background-size: cover;
     background-position: center;
 }
 
 #img-8 {
-    background-image: url(Images/8.jpg);
+    background-image: url("/responsive-landing-page-01/Images/8.jpg");
     background-size: cover;
     background-position: center;
 }
