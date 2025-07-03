@@ -32,7 +32,7 @@ This layout is fully responsive across:
 
 ## 🔗 Live Demo
 
-[Click here to view live](https://your-github-username.github.io/your-repo-name)
+[Click here to view live](https://waqaswebsolutions.github.io/responsive-landing-page-01/)
 
 ## 📂 Folder Structure
 
